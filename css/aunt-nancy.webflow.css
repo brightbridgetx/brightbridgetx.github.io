@@ -160,10 +160,6 @@ blockquote {
   padding-bottom: 0px;
 }
 
-.section.top-section.home-page {
-  padding-top: 0px;
-}
-
 .section.gray-section {
   padding-top: 40px;
   padding-bottom: 40px;
@@ -705,10 +701,6 @@ blockquote {
 
 .form {
   color: #fff;
-}
-
-.image {
-  max-width: 200%;
 }
 
 html.w-mod-js *[data-ix="tile-1"] {
